@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsamsedrayeen" alt="mdsamsedrayeen" /></a> </p>
 
-- 🔭 I’m currently working on [ODguru](odguru.com)
-
+- 🔭 I’m currently working on [ODguru](https://odguru.com/)
+  
 - 🌱 I’m currently learning **Sockets**
 
-- 👨‍💻 All of my projects are available at [samsedrain.com.np](samsedrain.com.np)
+- 👨‍💻 All of my projects are available at [samsedrain.com.np](https://samsedrain.com.np)  
 
-- 📝 I regularly write articles on [samsedrain.com.np](samsedrain.com.np)
+- 📝 I regularly write articles on [samsedrain.com.np](https://samsedrain.com.np)
 
 - 💬 Ask me about **NextJs, Django, Flutter, Flask**
 
